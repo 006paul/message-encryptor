@@ -43,3 +43,7 @@ The repository includes a `.devcontainer/devcontainer.json` configuration for VS
 ## Note
 
 These ciphers are intended for learning and experimentation. They should not be used to protect sensitive information.
+
+## Previous versions
+
+Earlier releases included a Tkinter desktop application. The current version is the Streamlit web app available above.
